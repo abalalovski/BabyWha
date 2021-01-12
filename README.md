@@ -6,7 +6,7 @@ BabyWha is a mobile app that helps you find missing groceries for your baby from
 
 ## Why is it open source?
 
-Because it's my showcase and playground to bring my Flutter knowledge to different level. Eventually it should become a fully functional app that solves the real problem, but in general it's just a mean for better learning. 
+This is a live project that I play with in my spare time. I want to showcase my skills and promote my Flutter knowledge to different level. Eventually it should become a fully functional app that solves the real problem, but in general it's just a mean for better learning. 
 
 ## Technical details
 
